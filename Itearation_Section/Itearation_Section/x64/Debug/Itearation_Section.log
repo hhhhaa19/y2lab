@@ -1,0 +1,4 @@
+﻿  Convert.c
+D:\上课\C语言\c语言练习\Itearation_Section\Itearation_Section\Convert.c(21,15): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\上课\C语言\c语言练习\Itearation_Section\Itearation_Section\Convert.c(26,10): warning C4098: “Convert”:“void”函数返回值
+  Itearation_Section.vcxproj -> D:\上课\C语言\c语言练习\Itearation_Section\x64\Debug\Itearation_Section.exe
